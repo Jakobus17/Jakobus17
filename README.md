@@ -2,7 +2,7 @@
 
 Isch binn der jaggob
 
-ich mag brogrammiere
+isch mag brogrammiere
 
 <!--
 **Jakobus17/Jakobus17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
